@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#008ba3</color>
+    <color name="colorAccent">#62efff</color>
+    <color name="primaryTextColor">#000000</color>
+
+
+
+        <color name="irisBlue">#00BCD4</color>
+        <color name="lightCyan">#E0F7FA</color>
+        <color name="paleTurquoise">#B2EBF2</color>
+        <color name="turquoiseBlue">#80DEEA</color>
+        <color name="mediumTurquoise">#4DD0E1</color>
+        <color name="summerSky">#26C6DA</color>
+        <color name="new_irisBlue">#00ACC1</color>
+        <color name="bondiBlue">#0097A7</color>
+        <color name="darkCyan">#00838F</color>
+        <color name="mosque">#006064</color>
+        <color name="electricBlue">#84FFFF</color>
+        <color name="aqua">#18FFFF</color>
+        <color name="new_Aqua">#00E5FF</color>
+        <color name="new_IrisBlue1">#00B8D4</color>
+        <color name="black">#000000</color>
+        <color name="white">#ffffff</color>
+
+</resources>
+
+
